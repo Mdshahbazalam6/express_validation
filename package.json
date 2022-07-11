@@ -1,0 +1,12 @@
+{
+  "name": "express_validation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Mdshahbazalam6/express_validation.git",
+  "author": "Mdshahbazalam6 <shahbazalam2002620@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
